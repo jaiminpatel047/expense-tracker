@@ -31,7 +31,7 @@ Installation
 To set up the Expense Tracker React Client project locally, follow these steps:
 
 
-Clone the repository: git clone https://github.com/your-username/expense-tracker-react-client.git
+Clone the repository: git clone git@github.com:jaiminpatel047/expense-tracker.git
 
 Navigate to the project directory: cd expense-tracker-react-client
 
